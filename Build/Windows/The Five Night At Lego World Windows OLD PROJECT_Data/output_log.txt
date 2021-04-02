@@ -1,0 +1,41 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f02)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Projet Unity\Five Night At Lego World\Build\Windows\The Five Night At Lego World Windows OLD PROJECT_Data\Managed\Boo.Lang.dll (this message is harmless)
